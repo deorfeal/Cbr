@@ -3149,11 +3149,11 @@ app = {
             u = app.findWithRoot(t, ".home-header_main._desktop .swiper-slide"),
             g = "";
         if (h && r.parent().addClass("hidden-content"), u.each(function (index) {
-                var imagePath1 = "images/heading-img-1.jpg";
-                var imagePath2 = "images/heading-img-2.jpg";
-                var imagePath3 = "images/heading-img-3.jpg";
-                var imagePath4 = "images/unsplash_3fPXt37X6UQ.png";
-
+            var imagePath1 = "images/unsplash_3fPXt37X6UQ.png";
+                var imagePath2 = "images/heading-img-1.jpg";
+                var imagePath3 = "images/heading-img-2.jpg";
+                var imagePath4 = "images/heading-img-3.jpg";
+                
                 var currentImagePath;
                 if (index === 0) {
                     currentImagePath = imagePath1;
@@ -3240,11 +3240,11 @@ app = {
             l = "";
         if (0 === s.length) return e.addClass("_no-mobile-slider"), !1;
         if (s.each(function (index) {
-                var imagePath1 = "images/heading-img-1.jpg";
-                var imagePath2 = "images/heading-img-2.jpg";
-                var imagePath3 = "images/heading-img-3.jpg";
-                var imagePath4 = "images/unsplash_3fPXt37X6UQ.png";
-
+            var imagePath1 = "images/unsplash_3fPXt37X6UQ.png";
+                var imagePath2 = "images/heading-img-1.jpg";
+                var imagePath3 = "images/heading-img-2.jpg";
+                var imagePath4 = "images/heading-img-3.jpg";
+                
                 var currentImagePath;
                 if (index === 0) {
                     currentImagePath = imagePath1;
